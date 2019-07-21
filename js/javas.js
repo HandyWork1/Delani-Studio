@@ -7,3 +7,10 @@ $('.two').on('click', function(){
 $('.three').on('click', function(){
     $('.hide-3').toggle();
 });
+
+
+$(".img-thumbnail").hover(function(){
+  $(this).addClass("hover");
+}, function(){
+    $(this).removeClass("hover");
+});
