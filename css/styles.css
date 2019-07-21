@@ -76,11 +76,15 @@ h4{
   background-size: cover;
 }
 #button{
-  align-content: center;
+  text-align: center;
 }
 
 input.transparent-input{
-  background-color:transparent !important;
-  border:solid 1px #fff;
-  color: #fff
+  background-color:transparent;
+  border:solid 2px #fff;
+}
+textarea.transparent-input{
+  margin-top: 10px;
+  background-color: transparent;
+  border: solid 2px #fff;
 }
