@@ -22,4 +22,5 @@ header{
 #about{
   text-align: center;
   justify-content: center;
+  display: flex;
 }
