@@ -12,7 +12,7 @@ You should start by :
   - Then open the folder with atom.
   
   # Screenshot of Webpage
- ![](Screenshot.png)
+ ![](Screenshot1.png)
   
   ## Link to Webpage
 https://handywork1.github.io/Delani-Studio/
