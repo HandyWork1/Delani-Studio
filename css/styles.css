@@ -76,9 +76,8 @@ h4{
   background-size: cover;
 }
 #button{
-  text-align: center;
+  margin-top: 5px;
 }
-
 input.transparent-input{
   background-color:transparent;
   border:solid 2px #fff;
@@ -87,4 +86,10 @@ textarea.transparent-input{
   margin-top: 10px;
   background-color: transparent;
   border: solid 2px #fff;
+}
+
+footer{
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
 }
