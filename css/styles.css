@@ -46,5 +46,13 @@ h4{
 }
 #portfolio{
   margin-top: 50px;
-  text-align: center;  
+  text-align: center;
+}
+.box{
+  border: 2px solid white;
+  display: none;
+  padding: 5px;
+}
+.img-thumbnail.hover{
+  display: block;
 }
