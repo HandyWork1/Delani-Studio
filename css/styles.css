@@ -34,8 +34,12 @@ header{
   background-position: center;
   background-repeat: no-repeat;
 }
+h4{
+  font-weight: bold;
+}
 #what-we-do{
   margin-top: 50px;
   align-content: center;
   text-align: center;
+  justify-content: center;
 }
