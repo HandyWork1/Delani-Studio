@@ -1,6 +1,9 @@
 h1, p{
   font-family: 'EB Garamond', serif;
 }
+h1{
+  text-align: center;
+}
 header{
     display: flex;
     position: relative;
@@ -15,4 +18,8 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+#about{
+  text-align: center;
+  justify-content: center;
 }
