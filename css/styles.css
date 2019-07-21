@@ -24,3 +24,13 @@ header{
   justify-content: center;
   display: flex;
 }
+#services{
+  text-align: center;
+  display: flex;
+  padding-top: 50px;
+  align-content: center;
+  background-image: url('../assets/backgrounds/second.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
