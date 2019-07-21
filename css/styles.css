@@ -78,13 +78,22 @@ h4{
 #button{
   margin-top: 5px;
 }
+#name{
+  color: #fff;
+}
+#email{
+  color: #fff;
+}
+#message{
+  color: #fff;
+}
 input.transparent-input{
-  background-color:transparent;
+  background-color:transparent !important;
   border:solid 2px #fff;
 }
 textarea.transparent-input{
   margin-top: 10px;
-  background-color: transparent;
+  background-color: transparent !important;
   border: solid 2px #fff;
 }
 
