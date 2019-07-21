@@ -20,6 +20,7 @@ header{
     background-attachment: fixed;
 }
 #about{
+  padding-top: 50px;
   text-align: center;
   justify-content: center;
   display: flex;
